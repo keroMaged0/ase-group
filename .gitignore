@@ -1,0 +1,27 @@
+node_modules
+build
+.env*
+.env
+package-lock.json
+media
+.todo
+.todo.md
+test_seeder
+# Compiled JavaScript files
+lib/**/*.js
+lib/**/*.js.map
+
+# TypeScript v1 declaration files
+typings/
+
+# Node.js dependency directory
+node_modules/
+yarn.lock
+access.pem
+certs
+logs
+common
+data
+mongo-init.js
+script.js
+.vscode

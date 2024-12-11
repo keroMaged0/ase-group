@@ -1,0 +1,7 @@
+{
+  "signal": "SIGINT",
+  "watch": ["src/**", "src/**/*.json", "src/**/*.js", "src/**/*.ts", ".env", "package.json"],
+  "exec": "ts-node src/index.ts",
+  "ext": "ts,js,json",
+  "legacyWatch": true
+}

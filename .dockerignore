@@ -1,0 +1,15 @@
+Dockerfile
+node_modules
+__mock__
+*.spec.ts
+*.test.ts
+build
+.git
+package-lock.json
+.eslintrc.json
+.eslintignore
+.prettierignore
+.prettierrc.json
+.todo
+.vscode   
+readme.md
